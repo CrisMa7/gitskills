@@ -7,4 +7,5 @@ creating a new branch is quicks && simple
 Creaitng a new branch is quick and simple
 >>>>>>> feature1
 solve comision
+forbiden fast forward 
 
